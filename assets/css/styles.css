@@ -1,0 +1,81 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url(assets/img/cat3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.navbar-brand {
+    padding-left: 5rem;
+    width: 70%;
+}
+#navbarNavAltMarkup{
+    font-size: 120%;
+    justify-content: flex-end;
+    padding-right: 5rem;
+    text-align: right;
+    color: #fff;
+}
+#barra-de-navegacao {
+    background-color:  #28A745 !important;
+}
+#header {
+    border: 100px;
+}
+#navbarNavAltMarkup {
+    color: #fff !important;
+}
+h1 {
+    text-align: center;
+    font-weight: 700 !important;
+    font-size: 60px !important;
+    font: 'Open Sans' bold ;
+    color: #707070;
+    margin-bottom: 5% !important;
+    margin-top: 2% !important;
+
+}
+.card {
+    display:inline-block;
+    height: 100%;
+    margin-bottom: 1rem;
+}
+/*.row {
+    --bs-gutter-x: 0rem !important;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+  }*/
+footer {
+    display: block;
+}
+/*.footer-logo {
+    width: 100px;
+    margin-left: 50%;
+}*/
+
+footer {
+    background-color: #E83E8C;
+    height: 184px;
+    text-align: center;
+}
+
+.linea2 {
+    margin-bottom: 5%;
+    margin-left: 15% !important;
+}
+.linea1 {
+    margin-bottom: 5%;
+    margin-left: 15% !important;
+}
+.formulario {
+    margin: 5em;
+}
+.cartoes{
+    width: 100%;
+}

@@ -1,0 +1,61 @@
+footer {
+    background-color: #E83E8C;
+    height: 184px;
+    text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand {
+    padding-left: 5rem;
+    width: 70%;
+}
+#navbarNavAltMarkup{
+    font-size: 120%;
+    justify-content: flex-end;
+    padding-right: 5rem;
+    text-align: right;
+    color: #fff;
+}
+#barra-de-navegacao {
+    background-color: #e83e8c !important;
+}
+#header {
+    border: 100px;
+}
+#navbarNavAltMarkup {
+    color: #fff !important;
+}
+h1 {
+    text-align: center;
+    font-weight: 700 !important;
+    font-size: 60px !important;
+    font: 'Open Sans' bold ;
+    color: #707070;
+    margin-bottom: 5% !important;
+    margin-top: 2% !important;
+
+}
+.photos {
+    width: 30%;
+    justify-content: space-between;
+}
+.todasfotos {
+    display: inline-flex;
+}
+.Iguanas {
+    margin-left: 10%;
+    display: inline-block;
+
+}
+.photo1 {
+    width: 10px;
+    object-fit: contain;
+    text-align: right;
+    
+    
+}
+.desc-section , .photo1{
+    display: inline-block;
+    vertical-align: middle;
+}
